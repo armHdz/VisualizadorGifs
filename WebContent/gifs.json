@@ -1,0 +1,27 @@
+[
+	{
+		"nombre": "pensando",
+		"categoria": "bob-esponja, patricio-estrella, pensando",
+		"url": "https://media3.giphy.com/media/LnKa2WLkd6eAM/giphy.gif"
+	},
+	{
+		"nombre": "apreciando el jazz improvisado",
+		"categoria": "bob-esponja, patricio-estrella, jazz-improvisado, apreciando",
+		"url": "https://media1.giphy.com/media/TPl5N4Ci49ZQY/giphy.gif"
+	},
+	{
+		"nombre": "homero come pizza",
+		"categoria": "los-simpson, homero, pizza, comiendo",
+		"url": "https://media.giphy.com/media/xaa9LgKZmKKXK/giphy.gif"
+	},
+	{
+		"nombre":"homero volando",
+		"categoria":"los-simpson, homero, volando, high",
+		"url":"https://media1.giphy.com/media/3BRDkVjKikYW4/giphy.gif"
+	},
+	{
+		"nombre":"el futuro es hoy",
+		"categoria":"Malcom, Dewey, futuro, viejo",
+		"url":"https://media.giphy.com/media/1zRd5ZNo0s6kLPifL1/giphy.gif"
+	}
+]
